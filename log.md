@@ -20,3 +20,15 @@
    - Iterate over all the elements
    - Resolve an exercise: 
 Given a two dimensional array that represent a chessboard find the answer to the question if rooks are safe and if that's the case you should return true or false other wise. The configuration of the board will be given as an input to your function and it'll be represented as a two dimensional array. Zero means that there's nothing in that space, and one means that there's a rook there. in this case a 4x4 chessboard, the array cannot be empty, but a smallest 1x1 is also a valid board. Call this method AreRooksSafe.
+
+### Day 3: January 4th, 2018
+
+**Today's Progress**: Check the Dictionary<TKey, Tvalue> type in c#
+
+**Thoughts** 
+-- Did the following operations with Dictionary type
+   - Declare and initialize
+   - TryGetValue usage
+   - Resolve the exercises: 
+		 1 - Given a list of numbers print the first pair that adds up to 10. The list can contain negative numbers.
+		 2 - Given a list of numbers print all the pairs that adds up to 10. The list can contain negative numbers. Do not print the same pair twice.
