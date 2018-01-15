@@ -32,3 +32,22 @@ Given a two dimensional array that represent a chessboard find the answer to the
    - Resolve the exercises: 
 		 1 - Given a list of numbers print the first pair that adds up to 10. The list can contain negative numbers.
 		 2 - Given a list of numbers print all the pairs that adds up to 10. The list can contain negative numbers. Do not print the same pair twice.
+		 
+### Day 4 January 9th, 2018 
+  -- Added my paid subscription to Azure
+		 
+### Day 5 January 10th, 2018
+  -- Finished the DB design for my test application. 
+      https://drive.google.com/file/d/1FFm-45YvkrnXsnFDXjcx8RLqxc_W-Yy6/view?usp=sharing
+  
+### Day 6 January 14th, 2018
+
+**Today's Progress**: Created my test application of asp.net core.
+
+**Thoughts** 
+-- Changed the password policy to a simpler thing just to keep it simple. 
+   - Added my database with all the tables that I think I will use.
+   - Applied the first EF migration
+   - Thinking about if I should use EF migrations. Which could be other options?
+   - Uploaded to github at new repository /inventories
+		 
