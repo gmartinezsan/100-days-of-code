@@ -50,4 +50,10 @@ Given a two dimensional array that represent a chessboard find the answer to the
    - Applied the first EF migration
    - Thinking about if I should use EF migrations. Which could be other options?
    - Uploaded to github at new repository /inventories
-		 
+
+
+### Day 7 January 17th, 2018
+
+**Today's Progress**: Resolved an algorithm to find the peak inside an array
+A peak is a number that its two neighbors are smaller than it.
+
