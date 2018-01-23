@@ -57,3 +57,9 @@ Given a two dimensional array that represent a chessboard find the answer to the
 **Today's Progress**: Resolved an algorithm to find the peak inside an array
 A peak is a number that its two neighbors are smaller than it.
 
+
+### Day 8 January 23rd, 2018
+
+**Today's Progress**: Reviewed the implementation of binary search in c#
+Recursive way.
+
