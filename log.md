@@ -63,3 +63,6 @@ A peak is a number that its two neighbors are smaller than it.
 **Today's Progress**: Reviewed the implementation of binary search in c#
 Recursive way.
 
+### Day 9 January 24rd, 2018
+**Today's Progress**: Implemented the "layered" solution to the spiral print of a matrix.
+
